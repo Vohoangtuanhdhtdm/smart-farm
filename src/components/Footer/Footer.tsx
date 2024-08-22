@@ -18,7 +18,7 @@ const Footer = () => {
           <h3>Terms and Conditions</h3>
           <h3>About us</h3>
         </div>
-        <div className="h-full flex border items-start justify-evenly space-x-10">
+        <div className="h-full flex items-start justify-evenly space-x-10">
           <CiTwitter className="text-4xl mt-4 " />
           <FaInstagram className="text-4xl mt-4" />
           <FaLinkedinIn className="text-4xl mt-4" />
